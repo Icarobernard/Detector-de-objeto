@@ -1,0 +1,39 @@
+.App {
+  background-color: #000101;
+  text-align: center;
+}
+
+.App-logo {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+.App-subheading {
+  font-size: calc(10px + 2vmin);
+  color: rgb(8, 247, 215);
+
+}
+
+.Loading {
+  font-size: calc(10px + 2vmin);
+  color: rgb(230, 40, 198);
+
+}
+
+.App-header {
+  background-color: #000101;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
