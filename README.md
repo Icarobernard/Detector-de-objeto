@@ -1,6 +1,6 @@
 # Detector de objeto
 Implementação do TensorFlow para reconhecimento de objetos 
-![](https://i.imgur.com/GKfHifa.gif)
+![](https://github.com/Icarobernard/Detector-de-objeto/blob/master/src/gif1.gif)
 # Requisitos
 - Node.js 
 # Instalação
