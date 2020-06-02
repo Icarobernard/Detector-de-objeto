@@ -6,7 +6,7 @@ Implementação do TensorFlow para reconhecimento de objetos
 # Instalação
 No terminal, digite:
 ```md
->npm install
+npm install
 ```
 Depois de baixar as dependências digite:
 
